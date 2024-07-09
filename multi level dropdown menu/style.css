@@ -10,8 +10,10 @@
 body{
     min-height: 100vh;
     background: url(../images/photo1.avif);
+    background-position: centre;
     background-size: cover;
     background-position: centre;
+    background-color: aquamarine;
 }
 
 header{
